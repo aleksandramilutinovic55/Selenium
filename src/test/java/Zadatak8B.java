@@ -86,16 +86,6 @@ public class Zadatak8B {
 
     }
 
-    // BeforeClass
 
-    // BeforeMethod
-    // Test1
-    // AfterMethod
-
-    // BeforeMethod
-    // Test2
-    // AfterMethod
-
-    // AfterClass
 
 }
